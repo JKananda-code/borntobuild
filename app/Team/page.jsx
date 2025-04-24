@@ -9,20 +9,29 @@ const TeamPage = () => {
   const committeeMembers = [
     {
       image: '/BTB-Chairman.jpg',
-      fname: 'Boniface Mwangi - Chairman',
+      fname: 'Boniface Mwangi-Chairman',
       email: 'Boniface@example.com',
       phone: '+254 700 123 456',
     },
     // Add other members similarly
+    {
+      image: '/BTB-ViceChair.jpg',
+      fname: 'Mercy Kimani - ViceChair',
+      email: 'Maggie@example.com',
+      phone: '+254 700 123 456',
+    },
+
+    {
+      image: '/BTB-ViceSecretary.jpg',
+      fname: 'Monicah Gitau - Secretary',
+      email: 'Maggie@example.com',
+      phone: '+254 700 123 456',
+    },
+    
+    
   ];
 
-  {
-  image: '/BTB-Assistant1.jpg';
-  fname: 'Margaret Ndegwa - ViceChair';
-  email: 'MaggieNdegwa@example.com';
-  phone: '+254 700 123 456';
-};
-
+ 
 // Add other members similarly
 
   const activities = [
