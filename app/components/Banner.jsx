@@ -16,13 +16,13 @@ const Banner = () => {
         className="rounded-lg"
       />
       {/* Overlay Content */}
-      <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-center text-center text-white px-4">
+      <div className="absolute inset-0 bg-blue-500 bg-opacity-50 flex flex-col justify-center items-center text-center text-white px-4">
         <h1 className="text-2xl md:text-4xl font-bold mb-2">
-          Welcome to Our Charity Event
+          Welcome to Our Charity Events
         </h1>
         <p className="text-lg md:text-2xl">
-          BTB Upcoming Event: Charity Event - Born to Build CBO<br />
-          Sunday, April 13th, 2025
+          Thank you for participating in our Charity Event held on 13 April 2025 <br />
+          We shall let you know when we are ready for the next one. Meanwhile Stay Blessed.
         </p>
       </div>
     </div>
