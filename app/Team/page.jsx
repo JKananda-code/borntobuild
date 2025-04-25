@@ -13,6 +13,12 @@ const TeamPage = () => {
       email: 'Boniface@example.com',
       phone: '+254 700 123 456',
     },
+    {
+      image: '/Achieng-Treasurer.jpeg',
+      fname: 'Achieng-Treasurer',
+      email: 'Achieng@example.com',
+      phone: '+254 700 123 456',
+    },
     // Add other members similarly
     {
       image: '/BTB-ViceChair.jpg',
