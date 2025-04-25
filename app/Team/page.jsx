@@ -9,39 +9,39 @@ const TeamPage = () => {
   const committeeMembers = [
     {
       image: '/BTB-Chairman.jpg',
-      fname: 'Boniface Mwangi-Chairman',
+      name: 'Boniface Mwangi-Chairman',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
     {
       image: '/Margaret Ndegwa-Coordinator.jpeg',
-      fname: 'Margaret Ndegwa-Coordinator',
+      name: 'Margaret Ndegwa-Coordinator',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
     {
       image: '/Achieng-Treasurer.jpeg',
-      fname: 'Achieng-Treasurer',
+      name: 'Achieng-Treasurer',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
     // Add other members similarly
     {
       image: '/BTB-ViceChair.jpg',
-      fname: 'Mercy Kimani - ViceChair',
+      name: 'Mercy Kimani - ViceChair',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
 
     {
       image: '/BTB-ViceSecretary.jpg',
-      fname: 'Monicah Gitau - Secretary',
+      name: 'Monicah Gitau - Secretary',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
     {
       image: '/Nancy Kamau-Counsellor.jpeg',
-      fname: 'Nancy Kamau - Counsellor',
+      name: 'Nancy Kamau - Counsellor',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
