@@ -33,7 +33,7 @@ const DonationsPage = () => {
             We offer several convenient ways to contribute:
           </p>
           <ul className="list-disc list-inside text-lg space-y-2">
-            <li>Online donations through [Platform Link].</li>
+            <li>Online donations through borntobuild.vercel.app</li>
             <li>In-kind donations like food, clothing, and hygiene products.</li>
             <li>Direct financial contributions to our organization.</li>
           </ul>
@@ -46,10 +46,10 @@ const DonationsPage = () => {
             To donate or partner with us, please reach out:
           </p>
           <ul className="list-inside text-lg space-y-2">
-            <li>Email: <a href="mailto:info@example.com" className="text-blue-500 hover:underline">info@example.com</a></li>
-            <li>Phone: <a href="tel:+254700123456" className="text-blue-500 hover:underline">+254 700 123 456</a></li>
-            <li>Visit: [Website Link]</li>
-          </ul>
+            <li>Email: <a href="mailto:info@example.com" className="text-blue-500 hover:underline">borntobuilbcbo@gmail.com</a></li>
+            <li>Phone: <a href="tel:+254700123456" className="text-blue-500 hover:underline">+254 794395755</a></li>
+            <li>Visit: borntobuild.vercel.app</li>
+          </ul>https://borntobuild.vercel.app/
         </section>
       </div>
     </div>
