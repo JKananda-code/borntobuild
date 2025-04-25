@@ -21,7 +21,7 @@ const TeamPage = () => {
     },
     {
       image: '/Achieng-Treasurer.jpeg',
-      name: 'Achieng-Treasurer',
+      name: 'Achieng Otieno -Treasurer',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
@@ -40,7 +40,7 @@ const TeamPage = () => {
       phone: '+254 794395755',
     },
     {
-      image: '/Nancy Kamau-Counsellor.jpeg',
+      image: '/NancyKamau-Counsellor.jpg',
       name: 'Nancy Kamau - Counsellor',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
