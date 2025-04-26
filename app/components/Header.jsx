@@ -4,6 +4,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
+import SocialLinks from './SocialLinks'
 
 const Header = () => {
   return (
@@ -24,9 +25,11 @@ const Header = () => {
           <Link href="/Donations" className="hover:underline">Donations</Link>
           <Link href="/Partners" className="hover:underline">Partners</Link>
           <Link href="/Team" className="hover:underline">Team</Link>
-          <Link href="/Activities" className="hover:underline">Activities</Link>
-          <Link href="/Contact" className="hover:underline">Contact</Link>
+          <ul>
+          <SocialLinks  />       
+          </ul>
         </div>
+     
       </nav>
     </header>
   );

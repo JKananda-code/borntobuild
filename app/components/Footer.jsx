@@ -1,10 +1,16 @@
 
+import Link from 'next/link'
+import SocialLinks from './SocialLinks'
 
 const Footer = () => {
     return (
-      <footer className="bg-gray-800 text-gray-400 py-6">
-        <div className="container mx-auto text-center">
-          <p>&copy; 2025 BTB CBO. All rights reserved.</p>
+      <footer className="bg-gray-800 text-gray-400 py-6 text-center">
+        <div className="container bg-gray-800 text-white py-4 mx-auto text-center space-x-4">
+        <Link href="/Activities" className="hover:underline">Activity Zone</Link>
+        <Link href="/Contact" className="hover:underline">Contact Us</Link>
+        <SocialLinks />  
+       <p>&copy; 2025 BTB CBO. All rights reserved.</p>
+        
         </div>
       </footer>
     );
