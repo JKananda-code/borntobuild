@@ -3,7 +3,6 @@
 
 import TeamCard from '../components/TeamCard';
 import ActivityCard from '../components/ActivityCard';
-import CountyMap from '../components/CountyMap';
 
 const TeamPage = () => {
   const committeeMembers = [
@@ -88,8 +87,7 @@ const TeamPage = () => {
           />
         ))}
       </div>
-      <h2 className="text-2xl font-bold mb-6 text-center">Kiambu County</h2>
-      <CountyMap />
+     
     </div>
   );
 };

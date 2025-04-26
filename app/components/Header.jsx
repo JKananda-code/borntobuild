@@ -24,6 +24,7 @@ const Header = () => {
           <Link href="/Donations" className="hover:underline">Donations</Link>
           <Link href="/Partners" className="hover:underline">Partners</Link>
           <Link href="/Team" className="hover:underline">Team</Link>
+          <Link href="/Activities" className="hover:underline">Activities</Link>
           <Link href="/Contact" className="hover:underline">Contact</Link>
         </div>
       </nav>

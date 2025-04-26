@@ -1,14 +1,33 @@
-
+import Image from "next/image";
 // app/donations/page.js
 
 const DonationsPage = () => {
   return (
+<div>
     <div className="py-8 px-4 container mx-auto">
       <h1 className="text-3xl font-bold mb-6 text-center">Support Us</h1>
-      <p className="text-lg text-gray-700 mb-8 text-center">
-        Born to Build CBO is dedicated to uplifting vulnerable communities through impactful programs. Your donations can help us bring hope and resources to those in need.
-      </p>
+      <div className="text-lg text-gray-700 mb-8 text-center">
+        <h2>Born to Build CBO is dedicated to uplifting vulnerable communities through impactful programs.
+        Your donations can help us bring hope and resources to those in need.
+        </h2>
 
+        <div style={{display: 'flex', gap: 50, alignItems:'center'}}>
+             
+             <Image 
+              src="/LipaNaPaybill.jpeg"
+              alt="Paybill Number"
+              width={200}
+              height={200}
+              />
+              <Image 
+              src="/LipaNaKCB.jpeg"
+              alt="Mpesa Account Number"
+              width={220}
+              height={200}
+              />
+          </div>
+         </div>
+         <h1 className="text bg-cyan-500 font-bold"> LIPA NA MPESA: PAYBILL NUMBER 400200 ACCOUNT NUMBER 848224</h1>  
       <div className="space-y-8">
         {/* Why Donate Section */}
         <section className="bg-gray-100 p-6 rounded-lg shadow-md">
@@ -53,7 +72,7 @@ const DonationsPage = () => {
         </section>
       </div>
     </div>
+    </div>
   );
-};
-
-export default DonationsPage;
+  }
+export default DonationsPage
