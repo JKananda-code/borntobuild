@@ -6,10 +6,10 @@ import './globals.css';
 const Layout = ({ children }) => {
   return (
     <html lang="en">
-     <body className={'{inter.className} flex flex-col min-h-screen'}>
+     <body className={'flex flex-col min-h-screen'}>
       <div>
     <Header />
-      <main className="flex-grow container mx-auto py-8">{children}</main>
+      <main className="mt-16 md:mt-20 lg:mt-24 container mx-auto p-4 md:p-6 lg:p-8">{children}</main>
     <Footer />
     </div>
     </body>    
