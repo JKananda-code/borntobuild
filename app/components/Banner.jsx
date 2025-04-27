@@ -1,6 +1,5 @@
 
   // components/Banner.js
-  'use client'
 
 import Image from 'next/image';
 
@@ -8,14 +7,7 @@ const Banner = () => {
   return (
     <div className="relative w-full h-64 md:h-96">
       {/* Background Image */}
-      <Image
-        src="/banner.jpg" // Replace with your actual image path
-        alt="BTB Charity Event Banner"
-        layout="fill"
-        objectFit="cover"
-        quality={80}
-        className="rounded-lg"
-      />
+     
       {/* Overlay Content */}
       <div className="absolute inset-0 bg-blue-500 bg-opacity-50 flex flex-col justify-center items-center text-center text-white px-4">
         <h1 className="text-2xl md:text-4xl font-bold mb-2">
