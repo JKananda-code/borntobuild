@@ -4,7 +4,6 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import SocialLinks from './SocialLinks'
 
 const Header = () => {
   return (
@@ -16,6 +15,8 @@ const Header = () => {
             alt="BTB Logo" 
             width={100}
             height={100}
+            fill
+            style={{objectFit:'cover'}}
             />
         </div>
         <div className="space-x-4">

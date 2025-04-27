@@ -5,7 +5,7 @@ import './globals.css';
 
 const Layout = ({ children }) => {
   return (
-    <html>
+    <html lang="en">
      <body>
     <div className="flex flex-col min-h-screen">
       <Header />

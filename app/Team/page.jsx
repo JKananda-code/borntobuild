@@ -20,7 +20,7 @@ const TeamPage = () => {
     },
     {
       image: '/Achieng-Treasurer.jpeg',
-      name: 'Achieng Otieno -Treasurer',
+      name: 'Eunice Achieng Otieno -Treasurer',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
