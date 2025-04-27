@@ -31,10 +31,16 @@ const TeamPage = () => {
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },
+    {
+      image: '/BTB-Secretary.jpeg',
+      name: 'Canory Juma Nyongesa - Secretary',
+      email: 'borntobuildcbo@gmail.com',
+      phone: '+254 794395755',
+    },
 
     {
       image: '/BTB-ViceSecretary.jpg',
-      name: 'Monicah Gitau - Secretary',
+      name: 'Monicah Gitau - Vice Secretary',
       email: 'borntobuildcbo@gmail.com',
       phone: '+254 794395755',
     },

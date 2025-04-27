@@ -14,8 +14,8 @@ const Header = () => {
            <Image
             src="/Logo.jpg" 
             alt="BTB Logo" 
-            width={70}
-            height={50}
+            width={100}
+            height={100}
             />
         </div>
         <div className="space-x-4">
@@ -25,8 +25,7 @@ const Header = () => {
           <Link href="/Donations" className="hover:underline">Donations</Link>
           <Link href="/Partners" className="hover:underline">Partners</Link>
           <Link href="/Team" className="hover:underline">Team</Link>
-          <ul>
-          <SocialLinks  />       
+          <ul>     
           </ul>
         </div>
      

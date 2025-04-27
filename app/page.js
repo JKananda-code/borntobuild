@@ -9,10 +9,11 @@ const HomePage = () => {
       <Banner />
       <div className="mt-8 px-4 text-center">
         <h2 className="text-2xl font-bold">Welcome to Born to Build CBO</h2>
-        <p className="text-lg mt-4">
-          Explore our initiatives, programs, and ways to support the community.
+        <p className="text-lg font-bold mt-4">
+          Explore our initiatives, programs, and ways to support the community within these pages.
         </p>
       </div>
+      <hr  />
     </div>
   );
 };
