@@ -6,6 +6,7 @@ import Banner from './components/Banner';
 const HomePage = () => {
   return (
     <div className="relative w-full h-64 md:h-96">
+      <div className="flex flex-wrap justify-center">
       <div className="absolute inset-0 bg-blue-500 bg-opacity-50 flex flex-col justify-center items-center text-center text-white px-4">
         <h1 className="text-2xl md:text-4xl font-bold mb-2">
           Paticipating in our Charity Events is Compassion in Action
@@ -20,7 +21,7 @@ const HomePage = () => {
         </div>
       </div>
     </div>
-
+    </div>
   );
 };
 
