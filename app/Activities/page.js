@@ -88,7 +88,8 @@ function Activities
         height={800}
         priority
         className="mx-auto"
-         />  <Image
+         />  
+         <Image
          src="/activity-11.jpeg"
          alt="Activity"
          width={1200}
