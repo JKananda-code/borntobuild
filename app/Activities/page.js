@@ -19,7 +19,7 @@ function Activities
         className="mx-auto"
          />
            <Image
-        src="/Juja Farm activity-1.jpeg"
+        src="/Juja Farm activity-1.jpg"
         alt='Activity'
         width={1200}
         height={800}
@@ -27,7 +27,7 @@ function Activities
         className="mx-auto"
          />
            <Image
-        src="/Juja Farm activity-2.jpeg"
+        src="/Juja Farm activity-2.jpg"
         alt="Activity"
         width={1200}
         height={800}
@@ -36,7 +36,7 @@ function Activities
          />
      
            <Image
-         src="/Juja Farm activity-4.jpeg"
+         src="/Juja Farm activity-4.jpg"
         alt="Activity"
         width={1200}
         height={800}
@@ -44,21 +44,21 @@ function Activities
         className="mx-auto"
          />
            <Image
-         src="/Juja Farm activity-5.jpeg"
+         src="/Juja Farm activity-5.jpg"
         alt="Activity"
         width={1200}
         height={800}
         priority
         className="mx-auto"
          />  <Image
-         src="/Juja Farm activity-6.jpeg"
+         src="/Juja Farm activity-6.jpg"
          alt="Activity"
          width={1200}
          height={800}
          priority
          className="mx-auto"
           />  <Image
-          src="/Juja Farm activity-7.jpeg"
+          src="/Juja Farm activity-7.jpg"
           alt="Activity"
           width={1200}
           height={800}
@@ -66,7 +66,7 @@ function Activities
           className="mx-auto"
            />
              <Image
-        src="/Juja Farm activity-8.jpeg"
+        src="/Juja Farm activity-8.jpg"
         alt="Activity"
         width={1200}
         height={800}
@@ -74,7 +74,7 @@ function Activities
         className="mx-auto"
          />
            <Image
-        src="/Juja Farm activity-9.jpeg"
+        src="/Juja Farm activity-9.jpg"
         alt="Activity"
         width={1200}
         height={800}
@@ -82,21 +82,21 @@ function Activities
         className="mx-auto"
          />
            <Image
-        src="/Juja Farm activity-10.jpeg"
+        src="/Juja Farm activity-10.jpg"
         alt="Activity"
         width={1200}
         height={800}
         priority
         className="mx-auto"
          />  <Image
-         src="/Juja Farm activity-11.jpeg"
+         src="/Juja Farm activity-11.jpg"
          alt="Activity"
          width={1200}
          height={800}
          priority
          className="mx-auto"
           />  <Image
-          src="/Juja Farm activity-12.jpeg"
+          src="/Juja Farm activity-12.jpg"
           alt="Activity"
           width={1200}
         height={800}
