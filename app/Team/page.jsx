@@ -55,7 +55,7 @@ const TeamPage = () => {
   ];
 
 // Add other members similarly
-/*
+
   const activities = [
     {
       eventNature: 'Food Distribution Event',
@@ -96,6 +96,4 @@ const TeamPage = () => {
     </div>
   );
 };
-**/
-}
 export default TeamPage;
