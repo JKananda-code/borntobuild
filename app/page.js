@@ -7,7 +7,7 @@ const HomePage = () => {
   return (
     <div className="relative w-full h-64 md:h-96">
       <div className="flex flex-wrap justify-center">
-      <div className="absolute inset-0 bg-blue-500 bg-opacity-50 flex flex-col justify-center items-center text-center text-white px-4 overflow-hidden m-4">
+      <div className="absolute top-16 bottom-16 left-0 right-0 bg-blue-500 bg-opacity-50 flex flex-col justify-center items-center p-4 text-white px-4 overflow-y-auto">
         <h1 className="text-sm md:text-2xl font-bold mb-2">
           Paticipating in our Charity Events is Compassion in Action
         </h1>
