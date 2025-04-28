@@ -57,7 +57,7 @@ const TeamPage = () => {
 // Add other members similarly
 
   const activities = [
-    {
+/*    {
       eventNature: 'Food Distribution Event',
       venue: 'Kiambu Town',
     },
@@ -66,6 +66,7 @@ const TeamPage = () => {
       venue: 'Limuru',
     },
     // Add other activities similarly
+    **/
   ];
 
   return (
