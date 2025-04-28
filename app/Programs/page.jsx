@@ -4,7 +4,7 @@
 const ProgramsPage = () => {
   return (
     <div className="py-8 px-4 container mx-auto">
-      <h1 className="text-3xl font-bold mb-6 text-center">Our Programs</h1>
+      <h1 className="text-3xl font-bold mb-6 text-center">Our Program</h1>
       <p className="text-lg text-gray-700 mb-8 text-center">
         Born to Build CBO is committed to impactful initiatives that uplift vulnerable communities and address pressing challenges.
       </p>

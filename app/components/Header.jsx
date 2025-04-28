@@ -21,7 +21,7 @@ const Header = () => {
         <div className="space-x-4">
           <Link href="/" className="hover:underline">Home</Link>
           <Link href="/About" className="hover:underline">About</Link>
-          <Link href="/Programs" className="hover:underline">Programs</Link>
+          <Link href="/Programs" className="hover:underline">Program</Link>
           <Link href="/Donations" className="hover:underline">Donations</Link>
           <Link href="/Partners" className="hover:underline">Partners</Link>
           <Link href="/Team" className="hover:underline">Team</Link>
