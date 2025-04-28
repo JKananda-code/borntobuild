@@ -9,14 +9,7 @@ function Activities
 <div className="flex justify-center">
 <div className="text-2xl font-bold mb-6 text-center space-y-2">
     Kiambu County
-       <Image
-        src="/kiambu-county-map.png"
-        alt="Map of Kiambu County"
-        width={1200}
-        height={800}
-        priority
-        className="mx-auto"
-         />
+       
          <Image
         src="/Activities-0.jpg"
         alt="Guiding Principles"
@@ -25,6 +18,112 @@ function Activities
         priority
         className="mx-auto"
          />
+           <Image
+        src="/Juja Farm activity-1.jpg"
+        alt='Activity'
+        width={100}
+        height={100}
+        priority
+        className="mx-auto"
+         />
+           <Image
+        src="/Juja Farm activity-1.jpg"
+        alt="Activity"
+        width={100}
+        height={100}
+        priority
+        className="mx-auto"
+         />
+           <Image
+         src="/Juja Farm activity-1.jpg"
+        alt="Activity"
+        width={100}
+        height={100}
+        priority
+        className="mx-auto"
+         />
+           <Image
+         src="/Juja Farm activity-1.jpg"
+        alt="Activity"
+        width={100}
+        height={100}
+        priority
+        className="mx-auto"
+         />
+           <Image
+         src="/Juja Farm activity-1.jpg"
+        alt="Activity"
+        width={100}
+        height={100}
+        priority
+        className="mx-auto"
+         />  <Image
+         src="/Juja Farm activity-1.jpg"
+         alt="Activity"
+         width={100}
+         height={100}
+         priority
+         className="mx-auto"
+          />  <Image
+          src="/Juja Farm activity-1.jpg"
+          alt="Activity"
+          width={100}
+          height={100}
+          priority
+          className="mx-auto"
+           />
+             <Image
+        src="/Juja Farm activity-1.jpg"
+        alt="Activity"
+        width={100}
+        height={100}
+        priority
+        className="mx-auto"
+         />
+           <Image
+        src="/Juja Farm activity-1.jpg"
+        alt="Activity"
+        width={100}
+        height={100}
+        priority
+        className="mx-auto"
+         />
+           <Image
+        src="/Juja Farm activity-1.jpg"
+        alt="Activity"
+        width={100}
+        height={100}
+        priority
+        className="mx-auto"
+         />  <Image
+         src="/Juja Farm activity-1.jpg"
+         alt="Activity"
+         width={100}
+         height={100}
+         priority
+         className="mx-auto"
+          />  <Image
+          src="/Juja Farm activity-1.jpg"
+          alt="Activity"
+          width={100}
+          height={100}
+          priority
+          className="mx-auto"
+           />  <Image
+           src="/Juja Farm activity-1.jpg"
+           alt="Activity"
+           width={100}
+           height={100}
+           priority
+           className="mx-auto"
+            />  <Image
+            src="/Juja Farm activity-1.jpg"
+            alt="Activity"
+            width={100}
+            height={100}
+            priority
+            className="mx-auto"
+             />
 </div>
 </div> 
   )
