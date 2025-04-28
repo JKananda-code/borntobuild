@@ -57,16 +57,16 @@ const TeamPage = () => {
 // Add other members similarly
 
   const activities = [
-/*    {
-      eventNature: 'Food Distribution Event',
-      venue: 'Kiambu Town',
+    {
+      eventNature: 'Please view our Program above for List of Community Needs identified in our Community.',
+      venue: 'Events are all over Kiambu County depending on identified needs. See Activity Zone here below',
     },
     {
-      eventNature: 'Medical Camp',
-      venue: 'Limuru',
+      eventNature: 'We organize Fundraising Charity Events from time to time',
+      venue: 'Announced in Brochures we distribute before the Events. You can view details in our website as well',
     },
     // Add other activities similarly
-    **/
+  
   ];
 
   return (
