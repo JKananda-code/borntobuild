@@ -5,9 +5,9 @@ import Banner from './components/Banner';
 
 const HomePage = () => {
   return (
-    <div className="relative w-full h-75 md:h-96">
+    <div className="relative w-full h-64 md:h-96">
       <div className="flex flex-wrap justify-center">
-      <div className="absolute inset-0 bg-blue-500 bg-opacity-50 flex flex-col justify-center items-center p-4 text-white overflow-y-auto m-4">
+      <div className="absolute inset-t-10 bg-blue-500 bg-opacity-50 flex flex-col justify-center items-center p-4 text-white overflow-y-auto m-4">
         <h1 className="text-sm md:text-2xl font-bold mb-2">
           Paticipating in our Charity Events is Compassion in Action
         </h1>
