@@ -58,11 +58,11 @@ const TeamPage = () => {
 
   const activities = [
     {
-      eventNature: 'Please view our Program above for List of Community Needs identified in our Community.',
+      eventNature: 'Please view our Program above for List of Community Needs identified in Kiambu County.',
       venue: 'Events are all over Kiambu County depending on identified needs. See Activity Zone here below',
     },
     {
-      eventNature: 'We organize Fundraising Charity Events from time to time',
+      eventNature: 'We also organize Fundraising Charity Events from time to time to support the program',
       venue: 'Announced in Brochures we distribute before the Events. You can view details in our website as well',
     },
     // Add other activities similarly
